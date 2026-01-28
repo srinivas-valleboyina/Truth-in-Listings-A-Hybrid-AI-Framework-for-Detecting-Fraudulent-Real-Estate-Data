@@ -1,0 +1,2 @@
+# Truth-in-Listings-A-Hybrid-AI-Framework-for-Detecting-Fraudulent-Real-Estate-Data
+Truth in Listings is a hybrid AI framework that detects fraudulent real estate data by combining machine learning, NLP, image analysis, and rule-based validation. It verifies prices, descriptions, images, and locations to flag fake or misleading listings, improving transparency, trust, and user safety on property platforms globally online
