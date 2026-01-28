@@ -1,0 +1,31 @@
+ID,Listing Confirmation Method,Deposit Amount,Monthly Rent,Exclusive Area,Unit Floor,Total Floors,Direction,Number of Rooms,Number of Bathrooms,Parking Availability,Total Parking Spaces,Maintenance Fee,Real Estate Agency,Brokerage Platform,Listing Year,Listing Month,Listing Day,Listing Weekday,Days Since Listed
+TRAIN_0004,On-site Confirmation,346000000,530000,,3,3,East,2,1,Not Available,,0,N45gM0M7R0,Platform B,2024,6,25,Tuesday,382
+TRAIN_0012,Phone Confirmation,348500000,180000,23.14,2,5,East,1,1,Not Available,,0,J30yG7F1O0,Platform C,2024,7,15,Monday,362
+TRAIN_0022,On-site Confirmation,24500000,740000,29.5,7,8,남서향,1,1,Available,1,4,W88DA3W2Q3,Platform A,2024,5,12,Sunday,426
+TRAIN_0031,On-site Confirmation,132000000,540000,,2,3,West,1,1,Not Available,,8,Z18up3D1C3,Platform A,2024,7,10,Wednesday,367
+TRAIN_0047,On-site Confirmation,76000000,700000,,3,5,West,1,1,Not Available,,6,m69GM9O9B3,Platform B,2023,12,19,Tuesday,571
+TRAIN_0048,On-site Confirmation,156000000,550000,26.25,3,7,Southeast,1,1,Available,5,0,S12iP7V0Q9,Platform A,2024,2,16,Friday,512
+TRAIN_0093,Phone Confirmation,403500000,540000,,4,5,East,2,1,Available,5,0,Y65Hw0Z3K0,Platform A,2024,5,1,Wednesday,437
+TRAIN_0106,On-site Confirmation,12500000,470000,,,7,East,2,1,Available,5,14,f41Wq8P7T9,Platform A,2024,3,30,Saturday,469
+TRAIN_0117,On-site Confirmation,12000000,260000,18.54,14,21,North,1,1,Available,109,10,Z18up3D1C3,Platform A,2024,5,19,Sunday,419
+TRAIN_0118,On-site Confirmation,11000000,740000,25.49,,7,South,1,1,Available,1,1,s37cv8A6L4,Platform A,2024,4,19,Friday,449
+TRAIN_0128,서류확인,69500000,200000,,3,5,East,2,1,Available,1,4,X95Bu4S5H2,Platform D,2024,7,17,Wednesday,360
+TRAIN_0135,On-site Confirmation,406500000,590000,32.34,4,6,West,2,1,Available,1,6,j90UQ8N6M3,Platform A,2024,3,21,Thursday,478
+TRAIN_0136,On-site Confirmation,135000000,70000,,4,6,West,1,1,Not Available,,19,H90uE4C0W5,Platform A,2024,4,19,Friday,449
+TRAIN_0147,On-site Confirmation,154500000,80000,17.5,7,7,South,1,1,Available,4,5,n74bA7B3O7,G플랫폼,2024,8,9,Friday,337
+TRAIN_0156,On-site Confirmation,8000000,190000,28.09,2,3,North,2,1,Not Available,,16,a15xR3G4V0,Platform A,2023,7,7,Friday,736
+TRAIN_0160,Phone Confirmation,11000000,610000,,5,5,남서향,2,1,Available,6,0,D25dP0R4Q9,Platform D,2024,9,22,Sunday,293
+TRAIN_0164,On-site Confirmation,26000000,330000,25.77,5,8,East,1,1,Available,6,0,S69fV9Z3J7,Platform C,2024,6,1,Saturday,406
+TRAIN_0000,On-site Confirmation,402500000,470000,,,15,West,1,1,Available,40,96,t93Nt6I2I0,Platform B,2024,10,9,Wednesday,276
+TRAIN_0001,On-site Confirmation,170500000,200000,,3,4,Southeast,2,1,Not Available,,0,q39iV5J4E6,Platform D,2024,12,26,Thursday,198
+TRAIN_0002,Phone Confirmation,114000000,380000,,2,3,East,1,1,Not Available,,0,b03oE4G3F6,Platform A,2024,11,28,Thursday,226
+TRAIN_0003,On-site Confirmation,163500000,30000,36.3,3,9,Southeast,2,1,Available,13,10,G52Iz8V2B9,Platform A,2024,11,26,Tuesday,228
+TRAIN_0005,Phone Confirmation,153000000,530000,29.5,,3,South,2,1,Available,1,0,Q42YF3Y0I2,Platform A,2024,9,12,Thursday,303
+TRAIN_0006,On-site Confirmation,348500000,400000,,2,3,북동향,1,1,Not Available,,0,A72Mx9C8U2,Platform D,2024,8,23,Friday,323
+TRAIN_0007,On-site Confirmation,139500000,590000,,2,3,East,2,1,Not Available,,0,d22DX4Y4P8,Platform B,2025,3,3,Monday,131
+TRAIN_0008,On-site Confirmation,120500000,440000,31.55,1,2,North,2,2,Available,18,3,G52Iz8V2B9,Platform B,2024,5,23,Thursday,415
+TRAIN_0009,On-site Confirmation,79500000,260000,39.66,2,3,Southeast,2,1,Not Available,2,0,M90Ph8W9V3,Platform B,2024,11,30,Saturday,224
+TRAIN_0010,On-site Confirmation,187500000,390000,23.69,1,15,South,1,1,Not Available,15,5,G52Iz8V2B9,Platform A,2023,12,16,Saturday,574
+TRAIN_0011,서류확인,91500000,750000,31.32,9,15,북동향,2,2,Available,44,8,G52Iz8V2B9,Platform B,2024,3,25,Monday,474
+TRAIN_0013,On-site Confirmation,27000000,320000,36.57,14,18,South,1,1,Not Available,46,3,G52Iz8V2B9,Platform A,2025,2,18,Tuesday,144
+TRAIN_0014,Phone Confirmation,409000000,110000,,3,10,South,1,1,Available,5,10,H90uE4C0W5,Platform A,2024,11,2,Saturday,252
